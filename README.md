@@ -1,4 +1,8 @@
-# Tanaka Guitar Website
+# Human Computer Interaction Group Project: Tanaka Guitar Website
+
+# Group:
+[Jonathan Wijaya](https://www.linkedin.com/in/jonathan-wijaya-483a02211/) - 2540126935\
+[Retno Shintya Hariyani](https://www.linkedin.com/in/retno-shintya-hariyani-055b65221/) - 2540127370
 
 # [Prototype link](https://www.figma.com/proto/K7YcDX7pCx75MMGLKydMf9/Tanaka-Guitar?type=design&node-id=15-28&t=x1pocZAqlwq67WH0-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=15%3A28&mode=design)
 
